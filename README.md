@@ -13,7 +13,7 @@ I build data products, predictive models and AI-assisted workflows, from the dat
 **[Oddsix](https://github.com/SpencerGoss/oddsix)** · live at [oddsix.app](https://oddsix.app)
 
 <a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-home.png" width="49%" alt="Oddsix home page"></a>
-<a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-player.png" width="49%" alt="Oddsix player page"></a>
+<a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-team.png" width="49%" alt="Oddsix team page"></a>
 
 A multi-sport data and prediction platform covering the NBA, NFL, MLB, NHL and soccer: live scores, standings,
 team and player pages for about 57,000 players, historical record books, and model predictions for every game.
