@@ -40,6 +40,10 @@ End-to-end pipeline that loads about 6,000 films from the TMDB API into PostgreS
 Case-competition model on 5,636 customers comparing four algorithms (CatBoost best, 0.899 AUC), with
 driver analysis and a three-segment retention plan.
 
+**More:** [churn-sql-database](https://github.com/SpencerGoss/churn-sql-database), a normalized SQLite schema for
+the churn dataset, and [the original NBA data pipeline](https://github.com/SpencerGoss/foundation_nba_analytics_project)
+that Oddsix grew from.
+
 ---
 
 ### Tools
