@@ -12,12 +12,14 @@ I build data products, predictive models and AI-assisted workflows, from the dat
 
 **[Oddsix](https://github.com/SpencerGoss/oddsix)** · live at [oddsix.app](https://oddsix.app)
 
-<a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-home.png" width="49%" alt="Oddsix home page"></a>
-<a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/SpencerGoss.github.io/master/public/images/projects/oddsix-team.png" width="49%" alt="Oddsix team page"></a>
+<a href="https://oddsix.app"><img src="https://raw.githubusercontent.com/SpencerGoss/oddsix/main/images/home.png" width="49%" alt="Oddsix home page"></a>
+<a href="https://oddsix.app/nba/"><img src="https://raw.githubusercontent.com/SpencerGoss/oddsix/main/images/overview.png" width="49%" alt="Oddsix NBA overview page"></a>
+<a href="https://oddsix.app/nba/teams/mil/"><img src="https://raw.githubusercontent.com/SpencerGoss/oddsix/main/images/team.png" width="49%" alt="Oddsix team page"></a>
+<a href="https://oddsix.app/nba/players/giannis-antetokounmpo/"><img src="https://raw.githubusercontent.com/SpencerGoss/oddsix/main/images/player.png" width="49%" alt="Oddsix player page"></a>
 
 A multi-sport data and prediction platform covering the NBA, NFL, MLB, NHL and soccer: live scores, standings,
-team and player pages for about 57,000 players, historical record books, and model predictions for every game.
-Data updates continuously through the day. Python, SQL, Astro, Cloudflare.
+league overview pages, team and player pages for about 57,000 players, historical record books, daily trivia
+games, and a prediction model for each sport. Data updates continuously through the day. Python, SQL, Astro, Cloudflare.
 
 **[agent-engineering](https://github.com/SpencerGoss/agent-engineering)**
 
