@@ -21,6 +21,12 @@ A multi-sport data and prediction platform covering the NBA, NFL, MLB, NHL and s
 league overview pages, team and player pages for about 57,000 players, historical record books, daily trivia
 games, and a prediction model for each sport. Data updates continuously through the day. Python, SQL, Astro, Cloudflare.
 
+**[invoice-triage-agent](https://github.com/SpencerGoss/invoice-triage-agent)**
+
+MSBA capstone: an AI agent workflow for accounts payable invoice intake, built in Microsoft Copilot Studio. Three
+agents read each invoice, check it against nine triage rules and route it to an approver or an AP clerk, with a
+business case, a 40-case evaluation plan and NIST AI RMF governance.
+
 **[agent-engineering](https://github.com/SpencerGoss/agent-engineering)**
 
 Patterns and reusable skills for running AI coding agents on real work: parallel workers, independent
