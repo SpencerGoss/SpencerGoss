@@ -25,7 +25,7 @@ games, and a prediction model for each sport. Data updates continuously through 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SpencerGoss/invoice-triage-agent"><img src="https://github.com/SpencerGoss/invoice-triage-agent/raw/HEAD/images/architecture.png" alt="Invoice triage agent architecture"></a>
+<a href="https://github.com/SpencerGoss/invoice-triage-agent"><img src="images/invoice.png" alt="Invoice triage agent architecture"></a>
 <h4><a href="https://github.com/SpencerGoss/invoice-triage-agent">Invoice Triage Agent</a></h4>
 MSBA capstone. An AI agent workflow for accounts payable invoice intake in Microsoft Copilot Studio: three agents
 read each invoice, check it against nine triage rules and route it to an approver or an AP clerk.
@@ -33,7 +33,7 @@ read each invoice, check it against nine triage rules and route it to an approve
 <br><a href="https://github.com/SpencerGoss/invoice-triage-agent/blob/HEAD/docs/Agentic_Workflow_Playbook.pdf">Read the playbook</a> · <a href="https://github.com/SpencerGoss/invoice-triage-agent/tree/HEAD/prompts">See the prompts</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SpencerGoss/chest-xray-classifier"><img src="https://github.com/SpencerGoss/chest-xray-classifier/raw/HEAD/docs/images/gradcam-correct.png" alt="Grad-CAM heat map on a chest X-ray"></a>
+<a href="https://github.com/SpencerGoss/chest-xray-classifier"><img src="images/xray.png" alt="Grad-CAM heat map on a chest X-ray"></a>
 <h4><a href="https://github.com/SpencerGoss/chest-xray-classifier">Chest X-ray Classifier</a></h4>
 Deep-learning model that flags 14 conditions on chest X-rays (NIH ChestX-ray14). Eight models compared, Grad-CAM
 heat maps that show where the model looked, and a web app.
@@ -43,7 +43,7 @@ heat maps that show where the model looked, and a web app.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SpencerGoss/box-office-vs-ratings"><img src="https://github.com/SpencerGoss/box-office-vs-ratings/raw/HEAD/docs/screenshots/01-film-page.png" alt="Box office app film page"></a>
+<a href="https://github.com/SpencerGoss/box-office-vs-ratings"><img src="images/boxoffice.png" alt="Box office app film page"></a>
 <h4><a href="https://github.com/SpencerGoss/box-office-vs-ratings">Box Office vs. Ratings</a></h4>
 End-to-end pipeline that loads about 6,000 films from the TMDB API into PostgreSQL, with an interactive app on top
 for exploring budgets, returns and ratings.
@@ -51,7 +51,7 @@ for exploring budgets, returns and ratings.
 <br><a href="https://box-office-vs-ratings.onrender.com">Live app</a> · <a href="https://github.com/SpencerGoss/box-office-vs-ratings/blob/HEAD/schema_documentation.md">Schema docs</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SpencerGoss/customer-churn-prediction"><img src="https://github.com/SpencerGoss/customer-churn-prediction/raw/HEAD/images/churn-roc.png" alt="Churn model ROC curves"></a>
+<a href="https://github.com/SpencerGoss/customer-churn-prediction"><img src="images/churn.png" alt="Churn model ROC curves"></a>
 <h4><a href="https://github.com/SpencerGoss/customer-churn-prediction">Customer Churn Prediction</a></h4>
 Case-competition model on 5,636 customers. Four algorithms compared (CatBoost best, 0.899 AUC), SHAP driver
 analysis and a three-segment retention plan.
