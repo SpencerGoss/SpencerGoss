@@ -27,7 +27,7 @@ games, and a prediction model for each sport. Data updates continuously through 
 <td width="50%" valign="top">
 <a href="https://github.com/SpencerGoss/invoice-triage-agent"><img src="images/invoice.png" alt="Invoice triage agent architecture"></a>
 <h4><a href="https://github.com/SpencerGoss/invoice-triage-agent">Invoice Triage Agent</a></h4>
-MSBA capstone. An AI agent workflow for accounts payable invoice intake in Microsoft Copilot Studio: three agents
+MSBA class project. An AI agent workflow for accounts payable invoice intake in Microsoft Copilot Studio: three agents
 read each invoice, check it against nine triage rules and route it to an approver or an AP clerk.
 <br><sub>Copilot Studio · prompt design · evaluation plan · NIST AI RMF</sub>
 <br><a href="https://github.com/SpencerGoss/invoice-triage-agent/blob/HEAD/docs/Agentic_Workflow_Playbook.pdf">Read the playbook</a> · <a href="https://github.com/SpencerGoss/invoice-triage-agent/tree/HEAD/prompts">See the prompts</a>
